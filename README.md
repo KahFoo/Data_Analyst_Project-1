@@ -15,7 +15,7 @@
 
 ### Description of project:
 
-In this project, combination of datset as shows above are used to analyzing the HDB resale market in order to determine the factors and parameters that influence prices which consists of market trends, prices, and other key indicators to identify patterns and correlations.
+In this project, combination of dataset as shows above are used to analyzing the HDB resale market in order to determine the factors and parameters that influence prices which consists of market trends, prices, and other key indicators to identify patterns and correlations.
 
 For the analysis, I have been using a variety of data sources, including Singapore's inflation rate, GDP figures, unemployment rates and government policy especially during China-Us Trade War, Covid-19 pandemic and Russia-Ukraine War to determine how these different factors may be impacting the HDB resale market.
 

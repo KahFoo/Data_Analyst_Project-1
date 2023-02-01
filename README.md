@@ -4,9 +4,13 @@
 
 ### Links to Dataset:
 [1. Resale Flat Prices based on Registration Date (Jan-2017 Onwards)](https://data.gov.sg/dataset/resale-flat-prices)
+
 [2. Gross Domestic Product In Chained (2015) Dollars, By Industry (SSIC 2020)](https://tablebuilder.singstat.gov.sg/table/TS/M015661)
+
 [3. Unemployment Rate (End Of Period)](https://tablebuilder.singstat.gov.sg/table/TS/M182341)
+
 [4. Consumer Price Index (CPI), 2019 As Base Year, Monthly](https://tablebuilder.singstat.gov.sg/table/TS/M212881)
+
 [5. MAS Domestic Interest Date Data](https://eservices.mas.gov.sg/Statistics/dir/DomesticInterestRates.aspx)
 
 ### Description of project:

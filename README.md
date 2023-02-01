@@ -26,13 +26,15 @@ Another important area of research has been the impact of the Covid-19 pandemic 
 
 ### DashBoard Findings:
 Based on the dashboard analysis:
-- In 2017 the HDB resale market saw a steady demand for HDB flats, with prices remaining relatively stable. However, as the year progressed, prices began to increase as buyers competed for a limited supply of flats. This trend continued into 2018, with prices rising by an average of 3% to 4% per quarter. China-US Trade war seems affected the inflation price and interest rate as well.
+- In 2017 the HDB resale market saw a steady demand for HDB flats, with prices remaining relatively stable. However, as the year progressed, prices began to increase as buyers competed for a limited supply of flats. 
+
+- This trend continued into 2018, with prices rising by an average of 3% to 4% per quarter. China-US Trade war seems affected the inflation price and interest rate as well.
 
 - In 2019, the market saw a slowdown in price growth as the government implemented measures to cool the property market. These measures, such as raising the minimum cash down payment for HDB flats, helped to curb demand and stabilize prices. Despite this, prices still increased by an average of 2% to 3% per quarter.
 
-- The year 2020 was a tough year for the HDB resale market, as the Covid-19 pandemic hit Singapore and affected the economy. Sudden surge of unemployment rate are observed and leading to a slowdown in demand and a slight decrease in prices of HDB flats. Interest rate are reduced in order to spur up the economy. However, by the end of the year, the market began to recover, with prices starting to pick up again.
+- The year 2020 was a tough year for Singapore, as the Covid-19 pandemic hit Singapore and affected the economy. Sudden surge of unemployment rate are observed and leading to a slowdown in demand and a slight decrease in prices of HDB flats. Interest rate are reduced in order to spur up the economy. However, by the end of the year, the market began to recover, with prices starting to pick up again.
 
-- In 2021, the HDB resale market saw a strong recovery, with prices increasing by an average of 4% to 5% per quarter. This was due to a combination of factors, including low interest rates, pent-up demand, and government measures to support the property market.
+- In 2021, the HDB resale market saw a strong recovery, with prices increasing by an average of 4% to 5% per quarter. This was due to a combination of factors, but mainly due to low interest rates.
 
 - As end of 2022, the HDB resale market has increased drasticly, with prices continuing to rise. This is due to ongoing demand for HDB flats. Government introduced latest cooling measures on 30 September 2022 with aims to moderate demand and ensure that resale flats remain affordable for buyers. Despite the current world economy uncertainty with high inflation rate, the HDB resale market looks set to remain strong in the coming years.
 

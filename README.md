@@ -17,7 +17,7 @@
 
 In this project, combination of dataset as shows above are used to analyzing the HDB resale market in order to determine the factors and parameters that influence prices which consists of market trends, prices, and other key indicators to identify patterns and correlations.
 
-For the analysis, I have been using a variety of data sources, including Singapore's inflation rate, GDP figures, unemployment rates and government policy especially during China-Us Trade War, Covid-19 pandemic and Russia-Ukraine War to determine how these different factors may be impacting the HDB resale market.
+For the analysis, I have been using a variety of data sources, including Singapore's inflation rate, GDP figures, unemployment rates and government policy especially during China-US Trade War, Covid-19 pandemic and Russia-Ukraine War to determine how these different factors may be impacting the HDB resale market.
 
 One of the key areas of focus for me has been identifying any correlation between inflation and HDB resale prices. I have been using statistical analysis and econometric models to determine whether there is a significant relationship between these two variables, and if so, how they are related.
 
@@ -40,7 +40,9 @@ Based on the dashboard analysis:
 
 ### Future Improvements:
 - To apply statistical techniques: Advanced statistical techniques like regression analysis.
+
 - To incoperate ML algorithms to further identify patterns, relationships, and trends in the data that may not be immediately obvious
+
 - Incorporate additional relevant data sources (Data on demographics, migration patterns etc)
 
 
